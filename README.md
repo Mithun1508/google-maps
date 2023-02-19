@@ -1,3 +1,3 @@
 # google-maps
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-google-maps-demo-ffeff9)
+![Screenshot 2023-02-19 155748](https://user-images.githubusercontent.com/93249038/219942481-0eb8cd3e-f19e-4044-988e-2c62a057620c.png)
